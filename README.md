@@ -1,0 +1,1 @@
+Developed a Python-based Bank Management System that simulates the functionality of a banking environment. The system allows users to create savings and checking accounts, deposit and withdraw funds, check balances, and add interest to savings accounts. The project uses objected-oriented programming, inheritance, polymorphism, data encapsulation and user interaction
